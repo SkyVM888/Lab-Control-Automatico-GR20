@@ -12,8 +12,8 @@ Análisis de estabilidad de una planta mediante el criterio de Routh-Hurwitz y e
 
 ## Resultados
 Al finalizar la ejecución, el programa mostrará:
-- La función de transferencia de la planta \G(s)\.
-- La función de transferencia de lazo cerrado \T(s)\.
+- La función de transferencia de la planta G(s).
+- La función de transferencia de lazo cerrado T(s).
 - Los coeficientes de la ecuación característica.
 - La matriz de Routh-Hurwitz.
 - El gráfico del lugar geométrico de las raíces.
